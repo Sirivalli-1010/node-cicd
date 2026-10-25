@@ -1,0 +1,10 @@
+{
+  "name": "node-cicd",
+  "version": "1.0.0",
+  "description": "Node.js CI/CD application using Jenkins and GitHub",
+  "main": "app.js",
+"scripts": {
+    "start": "node app.js",
+    "test": "node test.js"
+  }
+}
